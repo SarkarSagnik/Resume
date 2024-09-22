@@ -1,0 +1,108 @@
+/* Header Section */
+.header-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .header-section .lead {
+    font-size: 1.5rem;
+    color: #343a40;
+  }
+  
+  .header-section .contact-info {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .header-section .contact-info a {
+    color: #007bff;
+  }
+  
+  /* Section Titles */
+  .section-title {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #343a40;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+  }
+  
+  /* Profile Section */
+  .profile-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #6c757d;
+  }
+  
+  /* Experience Section */
+  .experience-section h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .experience-section p {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .experience-section ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    color: #6c757d;
+  }
+  
+  /* Education Section */
+  .education-item h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .education-item p {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  /* Projects Section */
+  .project-item h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .project-item p {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .project-item ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    color: #6c757d;
+  }
+  
+  /* Skills Section */
+  .skills-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .skills-section ul li {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  /* Leadership Section */
+  .leadership-item h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .leadership-item ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    color: #6c757d;
+  }
+  
