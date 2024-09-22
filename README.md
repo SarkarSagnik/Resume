@@ -51,12 +51,6 @@ The resume highlights:
 
 ---
 
-## 🤝 Contributing
-
-If you’d like to contribute to this project, feel free to submit a pull request or open an issue. I’m always open to suggestions that can improve the project!
-
----
-
 ## 📬 Contact
 
 If you want to reach out or have any questions, feel free to connect with me:
@@ -65,19 +59,6 @@ If you want to reach out or have any questions, feel free to connect with me:
 - **GitHub**: [SarkarSagnik](https://github.com/SarkarSagnik)
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
-## 🙌 Acknowledgments
-
-Special thanks to:
-- **Bootstrap** for making responsive design easy.
-- **Angular** for providing a great framework for building scalable web applications.
-- **FontAwesome** for beautiful icons.
 
 
 
