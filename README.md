@@ -1,4 +1,4 @@
-# Sagnik Sarkar - Data Analyst | Resume Website
+# Sagnik Sarkar - Data Analyst | Resume
 
 ![Resume Screenshot](path/to/screenshot.png)
 
