@@ -9,7 +9,7 @@ This repository hosts a professional **Data Analyst** resume website for **Sagni
 The resume highlights:
 - Professional experience as a Data Analyst at Pinnacle Infotech
 - Academic background with a strong focus on Electronics and Communication Engineering
-- Key projects including Machine Learning, Face Recognition, and Open Source contributions
+- Key projects including Design of a singel junction - Solar Cell, Face Recognition, and Open Source contributions
 - Skills and technical expertise in Python, SQL, AWS, and more.
 
 ---
