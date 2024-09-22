@@ -10,7 +10,7 @@ The resume highlights:
 - Professional experience as a Data Analyst at Pinnacle Infotech
 - Academic background with a strong focus on Electronics and Communication Engineering
 - Key projects including Design of a singel junction - Solar Cell, Face Recognition, and Open Source contributions
-- Skills and technical expertise in Python, SQL, AWS, and more.
+- Skills and technical expertise in Java, Python, SQL, Angular.
 
 ---
 
